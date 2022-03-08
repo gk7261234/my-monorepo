@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://npm-service.gaodunwangxiao.com/"
+    "registry": "https://www.npmjs.com/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
