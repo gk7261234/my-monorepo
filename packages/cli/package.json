@@ -1,6 +1,6 @@
 {
   "name": "@mo-demo/cli",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "> TODO: description",
   "author": "gk7261234 <1011464909@qq.com>",
   "homepage": "",
@@ -31,7 +31,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.3.3",
+    "@mo-demo/cli-shared-utils": "^0.4.0",
     "chalk": "^5.0.0"
   },
   "gitHead": "2beb41ba0fd413a5239e1e394c47777c951137cf"
