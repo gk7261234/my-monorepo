@@ -1,11 +1,12 @@
 {
   "name": "@mo-demo/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "gk7261234 <1011464909@qq.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/cli.js",
+  "main": "lib/index.js",
+  "types": "./lib/index.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,14 +14,24 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gk7261234/my-monorepo"
+  },
   "publishConfig": {
     "registry": "https://www.npmjs.com/"
   },
   "scripts": {
+    "dev": "npm run clean && tsc --build --watch",
+    "build": "npm run clean && npm run compile",
+    "clean:linux": "rm -rf ./lib && rm -rf tsconfig.build.tsbuildinfo",
+    "clean": "rimraf ./lib && rimraf tsconfig.build.tsbuildinfo",
+    "compile": "tsc --build",
+    "prepublishOnly": "npm run build",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.0.0",
+    "@mo-demo/cli-shared-utils": "^0.0.1",
     "chalk": "^5.0.0"
   }
 }

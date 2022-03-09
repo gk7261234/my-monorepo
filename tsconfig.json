@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es5",
+    "lib": ["esnext", "dom"],
+    "baseUrl": "./packages",
+    "paths": {
+      "@mo-demo/*": ["*/src"]
+    },
+    "moduleResolution": "node"
+  },
+  "references": [
+    {
+      "path": "./packages/cli"
+    },
+    {
+      "path": "./packages/cli-shared-utils"
+    }
+  ],
+  "include": ["packages/**/src/*"],
+  "exclude": [
+    "node_modules",
+    "lib"
+  ]
+}

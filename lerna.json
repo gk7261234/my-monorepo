@@ -7,11 +7,14 @@
       "hoist": true
     },
     "version": {
+      "allowBranch": "master",
       "conventionalCommits": true
     }
   },
+  "useWorkspaces": true,
+  "npmClient": "yarn",
   "ignoreChanges": [
     "**/*.md"
   ],
-  "version": "0.0.0"
+  "version": "independent"
 }

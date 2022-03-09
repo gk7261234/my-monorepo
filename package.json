@@ -1,7 +1,15 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
+    "dev": "yarn clean && tsc --build --watch",
+    "clean:linux": "rm -rf ./lib && rm -rf tsconfig.build.tsbuildinfo",
+    "clean": "rimraf ./lib && rimraf tsconfig.build.tsbuildinfo",
+    "build": "yarn clean:win && tsc --build",
+    "prepublishOnly": "npm run build",
     "commit": "git-cz"
   },
   "config": {
@@ -29,6 +37,7 @@
     "husky": "^7.0.4",
     "lerna": "^4.0.0",
     "lint-staged": "^12.3.5",
-    "standard": "^16.0.4"
+    "standard": "^16.0.4",
+    "typescript": "^4.6.2"
   }
 }

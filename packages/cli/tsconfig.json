@@ -1,0 +1,20 @@
+{
+    "extends": "../../tsconfig.json",
+  
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "composite": true,
+        "outDir": "./lib",
+        "rootDir": "./src"
+    },
+
+    "references": [
+        {
+          "path": "../cli-shared-utils/tsconfig.json"
+        }
+    ],
+  
+    "include": [
+      "src/**/*"
+    ]
+}
