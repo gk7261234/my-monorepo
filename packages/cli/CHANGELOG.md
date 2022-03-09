@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli@0.3.0...@mo-demo/cli@0.4.0) (2022-03-09)
+
+
+### Features
+
+* **add- package:** add @type/minimatch ([6f283ba](https://github.com/gk7261234/my-monorepo/commit/6f283ba1db4854e454b282cb4c17a1847707af2e))
+
+
+
+
+
 # [0.3.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli@0.2.0...@mo-demo/cli@0.3.0) (2022-03-09)
 
 
