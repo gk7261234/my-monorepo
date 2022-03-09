@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli-shared-utils@0.2.2...@mo-demo/cli-shared-utils@0.3.0) (2022-03-09)
+
+
+### Features
+
+* **test:** 添加忽略文件 ([805c367](https://github.com/gk7261234/my-monorepo/commit/805c367fe579a7f5b33390e2b31b7e1999cdad19))
+
+
+
+
+
 ## [0.2.2](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli-shared-utils@0.2.1...@mo-demo/cli-shared-utils@0.2.2) (2022-03-09)
 
 **Note:** Version bump only for package @mo-demo/cli-shared-utils
