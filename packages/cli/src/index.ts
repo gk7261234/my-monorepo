@@ -4,5 +4,7 @@ export default class Teat {
     a = Action.A;
     b = "b";
     c = "c";
+    d = "d";
+    e = "e";
     // a = "a";
 }
