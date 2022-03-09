@@ -9,5 +9,6 @@ export default class Teat {
     f = "f";
     g = "g";
     h = "h";
+    i = "i";
     // a = "a";
 }
