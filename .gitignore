@@ -20,5 +20,5 @@ back
 mac
 win32
 .history
-*/lib
+./**/**/lib
 *.tsbuildinfo
