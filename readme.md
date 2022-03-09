@@ -40,3 +40,7 @@ lerna + Monorepo 最佳事件
 - yarn run commit # 改动说明
 - lerna publish # 版本发布
 
+问题
+
+OpenSSL SSL_read: Connection was reset, errno 10054
+git config --global http.sslVerify "false"
