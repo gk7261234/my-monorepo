@@ -33,3 +33,10 @@ lerna + Monorepo 最佳事件
 - 发布 lerna publish 
 - 添加测试用例 jest
 
+使用
+- git clone xx  # 远程拉取代码
+- yarn install # 安装依赖
+- git add . # 添加到暂存区
+- yarn run commit # 改动说明
+- lerna publish # 版本发布
+
