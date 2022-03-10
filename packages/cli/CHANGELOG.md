@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.15.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli@0.14.0...@mo-demo/cli@0.15.0) (2022-03-10)
+
+
+### Features
+
+* **del:** del ([a03af38](https://github.com/gk7261234/my-monorepo/commit/a03af3807224ade1db69a63870893a915f16ee4e))
+* **hhhh:** hhh ([5022c47](https://github.com/gk7261234/my-monorepo/commit/5022c4701acbc0eb039d4fb2a275d275e0547be2))
+
+
+
+
+
 # [0.14.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli@0.13.0...@mo-demo/cli@0.14.0) (2022-03-10)
 
 
