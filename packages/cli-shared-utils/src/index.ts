@@ -1,5 +1,6 @@
 export enum Action {
     copy = 1,
     A,
-    B
+    B,
+    C
 }
