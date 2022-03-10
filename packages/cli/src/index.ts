@@ -12,5 +12,6 @@ export default class Teat {
     i = "i";
     j = "j";
     k = "k";
+    l = "l";
     // a = "a";
 }

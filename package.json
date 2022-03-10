@@ -10,7 +10,7 @@
     "clean": "rimraf ./lib && rimraf tsconfig.build.tsbuildinfo",
     "build": "tsc --build",
     "build:clean": "yarn clean && tsc --build",
-
+    "prepublishOnly": "npm run build",
     "commit": "git-cz"
   },
   "config": {
