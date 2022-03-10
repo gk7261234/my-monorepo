@@ -1,7 +1,7 @@
-import { Action } from "@mo-demo/cli-shared-utils";
+// import { Action } from "@mo-demo/cli-shared-utils";
 
 export default class Teat {
-    a = Action.A;
+    // a = Action.A;
     b = "b";
     c = "c";
     d = "d";
@@ -15,5 +15,6 @@ export default class Teat {
     l = "l";
     m = "m";
     n = "n";
+    o = "o";
     // a = "a";
 }

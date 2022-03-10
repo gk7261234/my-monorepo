@@ -27,7 +27,7 @@
     "clean:linux": "rm -rf ./lib && rm -rf tsconfig.build.tsbuildinfo",
     "clean": "rimraf ./lib && rimraf tsconfig.build.tsbuildinfo",
     "compile": "tsc --build",
-    "prepublishOnly": "npm run build",
+
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
@@ -35,5 +35,5 @@
     "chalk": "^5.0.0",
     "semver": "^7.3.5"
   },
-  "gitHead": "d12164c97e4c8ccebbffff602f9de9ca60077631"
+  "gitHead": "91399a359c3b23af5c1541171cc40a8b764c290f"
 }

@@ -3,8 +3,20 @@
     "packages/*"
   ],
   "command": {
+    "publish": {
+      "ignoreChanges": [
+        "**/__tests__/**",
+        ".gitignore",
+        "*.log",
+        "*.md"
+      ]
+    },
     "bootstrap": {
-      "hoist": true
+      "hoist": true,
+      "ignore": "npm-*",
+      "npmClientArgs": [
+        "--no-package-lock"
+      ]
     },
     "version": {
       "allowBranch": "master",
