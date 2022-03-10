@@ -1,6 +1,6 @@
 {
   "name": "@mo-demo/cli-shared-utils",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "> TODO: description",
   "author": "gk7261234 <1011464909@qq.com>",
   "homepage": "",
@@ -27,11 +27,10 @@
     "clean:linux": "rm -rf ./lib && rm -rf tsconfig.build.tsbuildinfo",
     "clean": "rimraf ./lib && rimraf tsconfig.build.tsbuildinfo",
     "compile": "tsc --build",
-
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mo-demo/cli": "^0.12.0",
+    "@mo-demo/cli": "^0.13.0",
     "chalk": "^5.0.0",
     "semver": "^7.3.5"
   },
