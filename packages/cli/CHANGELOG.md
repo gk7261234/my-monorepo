@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/gk7261234/my-monorepo/compare/lerna_manage_package_cli@0.1.0...lerna_manage_package_cli@0.2.0) (2022-03-10)
+
+
+### Features
+
+* **hhh:** hHHHHHH ([bb0aa46](https://github.com/gk7261234/my-monorepo/commit/bb0aa4647c65aed32c2509564531f291115d0cab))
+
+
+
+
+
 # 0.1.0 (2022-03-10)
 
 
