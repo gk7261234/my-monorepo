@@ -16,6 +16,6 @@ export default class Teat {
     m = "m";
     n = "n";
     o = "o";
-    p = "p";
+
     // a = "a";
 }
