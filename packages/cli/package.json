@@ -19,7 +19,7 @@
     "url": "https://github.com/gk7261234/my-monorepo"
   },
   "publishConfig": {
-    "registry": "https://www.npmjs.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "dev": "npm run clean && tsc --build --watch",
