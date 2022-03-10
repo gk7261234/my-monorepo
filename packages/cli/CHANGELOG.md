@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.10.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli@0.9.0...@mo-demo/cli@0.10.0) (2022-03-10)
+
+
+### Features
+
+* **f:** 1ffff ([cacc782](https://github.com/gk7261234/my-monorepo/commit/cacc782a6f5764cebd06da3af8c9d753a57318c8))
+
+
+
+
+
 # [0.9.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli@0.8.0...@mo-demo/cli@0.9.0) (2022-03-09)
 
 
