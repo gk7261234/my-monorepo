@@ -1,8 +1,8 @@
 {
-  "name": "@mo-demo/cli",
-  "version": "0.15.0",
-  "description": "> TODO: description",
-  "author": "gk7261234 <1011464909@qq.com>",
+  "name": "lerna_manage_package_cli",
+  "version": "0.0.1",
+  "description": "Warning: Test",
+  "author": "kuhn",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -33,5 +33,5 @@
     "@mo-demo/cli-shared-utils": "^0.9.0",
     "chalk": "^5.0.0"
   },
-  "gitHead": "da2976dad7960b78d1d4b65fdcc6eb578fc006e7"
+  "gitHead": "8e6e6578219b2f547695badb036ec66ef9d028e3"
 }

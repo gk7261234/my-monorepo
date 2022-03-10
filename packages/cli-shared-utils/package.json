@@ -1,5 +1,5 @@
 {
-  "name": "@mo-demo/cli-shared-utils",
+  "name": "cli-shared-utils",
   "version": "0.9.0",
   "description": "> TODO: description",
   "author": "gk7261234 <1011464909@qq.com>",
@@ -34,5 +34,5 @@
     "chalk": "^5.0.0",
     "semver": "^7.3.5"
   },
-  "gitHead": "da2976dad7960b78d1d4b65fdcc6eb578fc006e7"
+  "gitHead": "8e6e6578219b2f547695badb036ec66ef9d028e3"
 }
