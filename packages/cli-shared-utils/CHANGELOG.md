@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli-shared-utils@0.5.0...@mo-demo/cli-shared-utils@0.6.0) (2022-03-10)
+
+
+### Features
+
+* **n:** nn ([72ea113](https://github.com/gk7261234/my-monorepo/commit/72ea113e080abff47068eb205b0332e942b7c700))
+
+
+
+
+
 # [0.5.0](https://github.com/gk7261234/my-monorepo/compare/@mo-demo/cli-shared-utils@0.4.1...@mo-demo/cli-shared-utils@0.5.0) (2022-03-10)
 
 
