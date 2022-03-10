@@ -3,5 +3,6 @@ export enum Action {
     A,
     B,
     C,
-    D
+    D,
+    E
 }
