@@ -1,4 +1,4 @@
-import { Action } from "@mo-demo/cli-shared-utils";
+import { Action } from "cli-shared-utils";
 var Teat = /** @class */ (function () {
     function Teat() {
         this.a = Action.A;
@@ -16,6 +16,7 @@ var Teat = /** @class */ (function () {
         this.m = "m";
         this.n = "n";
         this.o = "o";
+        this.p = "p";
         // a = "a";
     }
     return Teat;
