@@ -13,7 +13,7 @@ lerna+yarn workspace+monorepo总结：
 - 把依赖包提升到根目录 lerna bootstrap --hoist (可以在lerna.json配置)
 - 清除package依赖 lerna clean
 
-lerna + Monorepo 最佳事件
+lerna + Monorepo 最佳实践
 
 - 搭建环境 clone 下来项目 yarn install
 - 清理环境 

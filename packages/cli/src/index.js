@@ -17,6 +17,7 @@ var Teat = /** @class */ (function () {
         this.n = "n";
         this.o = "o";
         this.p = "p";
+        this.q = "q";
         // a = "a";
     }
     return Teat;
